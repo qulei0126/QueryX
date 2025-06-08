@@ -1,0 +1,14 @@
+# Python相关
+build/
+dist/
+
+# 虚拟环境
+.venv/
+
+# IDE相关
+.idea/
+.cursor
+
+# cursor相关
+.cursorignore
+.cursorrules

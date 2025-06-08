@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "笔记本电脑",
+    "category": "电子产品",
+    "price": 5999.99,
+    "stock": 50,
+    "supplier": "联想"
+  },
+  {
+    "id": 2,
+    "name": "智能手机",
+    "category": "电子产品",
+    "price": 3999.00,
+    "stock": 100,
+    "supplier": "小米"
+  },
+  {
+    "id": 3,
+    "name": "无线耳机",
+    "category": "配件",
+    "price": 899.00,
+    "stock": 200,
+    "supplier": "苹果"
+  },
+  {
+    "id": 4,
+    "name": "机械键盘",
+    "category": "配件",
+    "price": 499.00,
+    "stock": 80,
+    "supplier": "罗技"
+  },
+  {
+    "id": 5,
+    "name": "显示器",
+    "category": "电子产品",
+    "price": 1299.00,
+    "stock": 30,
+    "supplier": "三星"
+  },
+  {
+    "id": 6,
+    "name": "游戏鼠标",
+    "category": "配件",
+    "price": 299.00,
+    "stock": 150,
+    "supplier": "雷蛇"
+  },
+  {
+    "id": 7,
+    "name": "平板电脑",
+    "category": "电子产品",
+    "price": 2599.00,
+    "stock": 60,
+    "supplier": "华为"
+  },
+  {
+    "id": 8,
+    "name": "移动硬盘",
+    "category": "存储设备",
+    "price": 399.00,
+    "stock": 120,
+    "supplier": "西部数据"
+  },
+  {
+    "id": 9,
+    "name": "固态硬盘",
+    "category": "存储设备",
+    "price": 599.00,
+    "stock": 90,
+    "supplier": "三星"
+  },
+  {
+    "id": 10,
+    "name": "路由器",
+    "category": "网络设备",
+    "price": 199.00,
+    "stock": 100,
+    "supplier": "华为"
+  }
+] 
